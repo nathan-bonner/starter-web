@@ -19,3 +19,6 @@ TEXT TEXT TEXT
 EDIT EDIT EDIT
 
 ### YUP
+
+### Copyright Notice
+FOOLS!
