@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Another Section
 
+Some text
+
 ## Another One
 
 ## One more
